@@ -1,0 +1,22 @@
+{
+  "name": "cc-admin-article",
+  "version": "1.0.0",
+  "description": "Admin and Article API for Menhela project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Capstone-Bangkit-C23-PC759/cc-admin-article.git"
+  },
+  "author": "syauqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Capstone-Bangkit-C23-PC759/cc-admin-article/issues"
+  },
+  "homepage": "https://github.com/Capstone-Bangkit-C23-PC759/cc-admin-article#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
